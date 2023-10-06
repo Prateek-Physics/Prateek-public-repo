@@ -4,7 +4,10 @@ code-3
 
 Square wave analysis in Python , This code generates first ,second and third wave of fourier series for square wave and compares thier amplitude and frequency.
 
+It is recommended to run this code in spyder for visually apealing and interactive plots.
+
 """
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sympy import *
