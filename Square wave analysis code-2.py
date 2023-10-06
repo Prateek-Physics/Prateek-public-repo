@@ -2,9 +2,12 @@
 """
 code-2 
 
-Square wave analysis in Python , This code compares our Square wave made using fourier series with theoriginal square wave made by python's built in method
+Square wave analysis in Python , This code compares our Square wave made using fourier series with the original square wave made by python's built in method
+
+It is recommended to run this code in spyder for visually appealing and interactive plots.
 
 """
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sympy import *
