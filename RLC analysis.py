@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 12 13:12:11 2024
 
-@author: kotil
+@author: Prateek
 """
 
 %matplotlib
