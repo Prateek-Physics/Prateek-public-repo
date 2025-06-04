@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 10 12:58:35 2024
 
-@author: kotil
+@author: Prateek
 """
 %matplotlib
 import numpy as np
